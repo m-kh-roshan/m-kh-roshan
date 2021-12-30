@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-kh-roshan
+- 👋 Hi, I’m Reza Roshan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
